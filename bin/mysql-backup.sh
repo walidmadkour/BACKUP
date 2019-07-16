@@ -10,7 +10,7 @@ OLDERTHAN=30
 # Backup Dest directory
 DEST="/home/backup-database"
 
-# Directory, where a copy of the "latest" dumps will be stored
+# Directory,  where a copy of the "latest" dumps will be stored
 LATEST=$DEST/latest
 
 # Get hostname
